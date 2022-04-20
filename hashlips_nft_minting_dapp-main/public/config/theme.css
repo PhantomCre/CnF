@@ -1,0 +1,11 @@
+:root {
+  --primary: #053816e1;
+  --primary-text: #f7f2f2;
+  --secondary: #04a057;
+  --secondary-text: #ffffff;
+  --accent: #116883;
+  --accent-text: #ffffff;
+}
+.content{
+  background-image: url(./images/bg.jpg);
+}
